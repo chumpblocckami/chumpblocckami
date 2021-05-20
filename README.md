@@ -1,6 +1,6 @@
 ### Hi there,👋 chumpblocckami's here!
 
-- 🎓 Holder of master degree in data science and a bachelor degree in UX/UI design.
+- 🎓 Master degree in data science and bachelor degree in UX/UI design.
 - 🔭 Working as a data scientist / developer at [spindoxlabs](https://www.spindoxlabs.com/) 
 - 🐍 Python
 - 🔎 Interested in graph, embedded space, NLP and social sciences.
