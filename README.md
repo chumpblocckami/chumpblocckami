@@ -7,4 +7,5 @@
 - 📫 Reach me: [my socials](https://chumpblocckami.github.io/)
 
 ✨**I'M OPEN TO COLLABORATIONS**✨
+
 [![chumpblocckami's github stats](https://github-readme-stats.vercel.app/api?username=chumpblocckami&theme=tokyonight&show_icons=true)](https://github.com/chumpblocckami/github-readme-stats)
