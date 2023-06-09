@@ -7,7 +7,7 @@
 - 📫 Reach me: [my socials](https://chumpblocckami.github.io/)
 
 ### Expertise 
-![My Skills]([https://skills.thijs.gg/icons?i=python,pytorch,docker))
+![My Skills](https://skills.thijs.gg/icons?i=python,pytorch,docker)
 
 ✨**I'M OPEN TO COLLABORATIONS**✨
 
