@@ -6,6 +6,9 @@
 - 🔎 Interested in graph, embedded space, NLP and social sciences.
 - 📫 Reach me: [my socials](https://chumpblocckami.github.io/)
 
+### Expertise 
+[![My Skills]([https://skills.thijs.gg/icons?i=python,pytorch,docker)](https://skills.thijs.gg](https://skills.thijs.gg/icons?i=python,pytorch,tensorflow,docker))
+
 ✨**I'M OPEN TO COLLABORATIONS**✨
 
 [![chumpblocckami's github stats](https://github-readme-stats.vercel.app/api?username=chumpblocckami&theme=tokyonight&show_icons=true)](https://github.com/chumpblocckami/github-readme-stats)
