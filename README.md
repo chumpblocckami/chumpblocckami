@@ -13,4 +13,4 @@
 
 [![chumpblocckami's github stats](https://github-readme-stats.vercel.app/api?username=chumpblocckami&theme=tokyonight&show_icons=true)](https://github.com/chumpblocckami/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandroperetti&show_icons=true&theme=radical)](https://github.com/alessandroperetti/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandroperetti&theme=radical&show_icons=true)](https://github.com/alessandroperetti/github-readme-stats)
