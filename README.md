@@ -9,6 +9,6 @@
 ### Expertise 
 ![My Skills](https://skills.thijs.gg/icons?i=python,pytorch,tensorflow,docker)
 
-✨**I'M OPEN TO COLLABORATIONS**✨
+✨**OPEN TO COLLABORATIONS**✨
 
 [![chumpblocckami's github stats](https://github-readme-stats.vercel.app/api?username=chumpblocckami&theme=tokyonight&show_icons=true)](https://github.com/chumpblocckami/github-readme-stats)
