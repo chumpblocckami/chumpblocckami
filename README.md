@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=chumpblocckami)
 ### Hi there,👋 chumpblocckami's here!
 
 - 🎓 Bachelor degree in UX/UI design and Master degree in data science.
@@ -9,6 +10,9 @@
 ### Expertise 
 ![My Skills](https://skills.thijs.gg/icons?i=python,pytorch,tensorflow,docker)
 
+![Metrics](github_metrics.svg)
+
 ✨**OPEN TO COLLABORATIONS**✨
 
 [![chumpblocckami's github stats](https://github-readme-stats.vercel.app/api?username=chumpblocckami&theme=tokyonight&show_icons=true)](https://github.com/chumpblocckami/github-readme-stats)
+
