@@ -7,8 +7,7 @@
 - 🔎 Interested in graph,NLP, LLMs and social sciences.
 - 📫 Reach me: [my socials](https://chumpblocckami.github.io/)
 
-### Expertise 
-![My Skills](https://skills.thijs.gg/icons?i=python,pytorch,tensorflow,docker)
+### Expertise
 
 ![Metrics](github_metrics.svg)
 
