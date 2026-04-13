@@ -11,6 +11,8 @@
 
 ![Metrics](github_metrics.svg)
 
+### Certifications
+
 [![Qdrant Essentials Certified](https://dev.qdrant.dev/functions/v1/certificate-badge?id=QDRANT-EA0194D9&v=qdrant-essentials)](https://train.qdrant.dev/certificate/QDRANT-EA0194D9)
 
 [![Qdrant Multi-Vector Search](https://dev.qdrant.dev/functions/v1/certificate-badge?id=QDRANT-21A7ADE6&v=qdrant-essentials)](https://train.qdrant.dev/certificate/QDRANT-21A7ADE6)
